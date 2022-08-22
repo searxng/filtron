@@ -2,7 +2,7 @@ module github.com/searxng/filtron
 
 go 1.17
 
-require github.com/valyala/fasthttp v1.37.0
+require github.com/valyala/fasthttp v1.39.0
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
